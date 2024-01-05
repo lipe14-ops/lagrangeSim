@@ -5,7 +5,7 @@ lagrange theorem applied to particle movement,
 <details>
 <summary markdown="span"><h3>todo list</h3></summary>
 
-- [ ] particle simulation.
+- [x] particle simulation.
 - [ ] lagrange theorem.
 - [ ] simple UI.
 
