@@ -1,9 +1,10 @@
 CC = g++
 FILE = ./src/main.cpp
 EXE = ./dist/lagrange
+CFLAGS = -lraylib
 
 all: $(EXE)
 	$(EXE)
 
 $(EXE): $(FILE)
-	$(CC) $(FILE) -o $(EXE)
+	$(CC) $(CFLAGS) $(FILE) -o $(EXE) 
