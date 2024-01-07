@@ -1,12 +1,16 @@
-# LAGRANGE THEOREM SIMULATION
+# LAGRANGE INTERPOLATION - SIMULATION
 
-lagrange theorem applied to particle movement,
+lagrange interpolation applied to particle movement.
+
+## references: 
+- https://en.wikipedia.org/wiki/Lagrange_polynomial
+- https://en.wikipedia.org/wiki/Runge%27s_phenomenon
 
 <details>
 <summary markdown="span"><h3>todo list</h3></summary>
 
 - [x] particle simulation.
-- [ ] lagrange theorem.
+- [x] lagrange interpolation.
 - [x] simple UI.
 
 </details>
