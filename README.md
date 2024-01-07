@@ -2,6 +2,11 @@
 
 lagrange interpolation applied to particle movement.
 
+## project:
+
+![](./assets/2024-01-07_14-10.png)
+![](./assets/2024-01-07_14-11.png)
+
 ## references: 
 - https://en.wikipedia.org/wiki/Lagrange_polynomial
 - https://en.wikipedia.org/wiki/Runge%27s_phenomenon
